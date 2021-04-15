@@ -7,13 +7,24 @@ Here User can add their Employee’s details safely and it’s not time consumin
 
 
 4W's and 1'H
+
 Who:
+
 in any corporate or government sectors for storing employees data.
+
 What:
+
 instead of using traditional method for storing data in handwritten form, this system will reduce thier efforts and save time as well.
+
 When:
+
 everyday, internet is changing our lives, so with the changing generation everything should be digitalized.
+
 Where:
+
 wherever there is requirement of storing such data, we can use this system.
+
 How:
+
 Employees will be able to store and access their data whenever they wish.
+
