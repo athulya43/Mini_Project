@@ -1,7 +1,7 @@
 
 # Introduction
 
-The project employee management system using C manage employee records using file system. this help to register employee, display all list of employee in screen, search a  particular employee record, modify and delete information of an employee.
+The project titled Employee Management System using C manage employee records using file system. This system helps to login in using username and password, register new employee, delete or modify stored details or even to change the password by the employees itself.
 Here User can add their Employee’s details safely and it’s not time consuming. The whole project is designed in ‘C’ language and different variables and strings have been used for the development of this project. This mini project is easy to operate and understand by the users.
 
 # Cost and Features
@@ -11,8 +11,11 @@ cost is not estimated yet.
 Features are as follows:
 
 1.Proper Log-In System.
+
 2.Easy To Add, Modify, List And Delete Records.
+
 3.Password Protected.
+
 
 # Design
 
