@@ -21,6 +21,11 @@ Features are as follows:
 
 ![ems](https://user-images.githubusercontent.com/74306039/114851628-abd4bf80-9dff-11eb-827d-d3d99eaad1a6.png)
 
+# SWOT Analysis
+
+![swot analysis](https://user-images.githubusercontent.com/74306039/114852740-adeb4e00-9e00-11eb-8430-e44f6dbbc4c7.jpeg)
+
+
 
 
 # 4W's and 1'H
