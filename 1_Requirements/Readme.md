@@ -1,8 +1,10 @@
+
 Introduction
 
 The project employee management system using C manage employee records using file system. this help to register employee, display all list of employee in screen, search a  particular employee record, modify and delete information of an employee.
 Here User can add their Employee’s details safely and it’s not time consuming. The whole project is designed in ‘C’ language and different variables and strings have been used for the development of this project. This mini project is easy to operate and understand by the users.
  
+![EMPLOYEE-MANAGEMENT-SYSTEM](https://user-images.githubusercontent.com/74306039/114845418-5dbcbd80-9df9-11eb-965a-8f7b9c3109f6.jpg)
 
 
 
