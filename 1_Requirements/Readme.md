@@ -50,15 +50,15 @@ wherever there is requirement of storing such data, we can use this system.
 
 Employees will be able to store and access their data whenever they wish.
 
-Detail requirements
+# Detail requirements
 
-High Level Requirements:
+# High Level Requirements:
 
 HR_01V windows /Linux operating system	
 
 HR_02 GCC compiler with Makefile 
 
-Low Level Requirements:
+# Low Level Requirements:
 
 LR_01 The application should be able to execute in any of the operating system.
 	
