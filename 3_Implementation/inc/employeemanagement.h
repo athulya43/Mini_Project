@@ -8,7 +8,7 @@
 
 #endif
 
-struct emp
+typedef struct emp
     {
         char name[40]; ///name of employee
         int age; /// age of employee
