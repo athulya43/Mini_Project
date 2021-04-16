@@ -85,7 +85,7 @@ int main()
     char another, choice;
 
     /** structure that represent a employee */
-    struct emp
+    typedef struct emp
     {
         char name[40]; ///name of employee
         int age; /// age of employee
