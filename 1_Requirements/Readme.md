@@ -50,3 +50,21 @@ wherever there is requirement of storing such data, we can use this system.
 
 Employees will be able to store and access their data whenever they wish.
 
+Detail requirements
+
+High Level Requirements:
+
+HR_01V windows /Linux operating system	
+
+HR_02 GCC compiler with Makefile 
+
+Low Level Requirements:
+
+LR_01 The application should be able to execute in any of the operating system.
+	
+LR_02To modify record	
+  
+LR_03 To delete record 
+
+LR_04 To change the password of the login details
+
