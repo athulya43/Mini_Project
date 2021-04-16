@@ -7,11 +7,7 @@
 /** List of Global Variable */
 COORD coord = {0,0}; /// top-left corner of window
 
-/**
-    function : gotoxy
-    @param input: x and y coordinates
-    @param output: moves the cursor in specified position of console
-*/
+
 void gotoxy(int x,int y)
 {
     coord.X = x;
@@ -148,8 +144,7 @@ int main()
         {
         case '1':  /// if user press 1
             system("cls");
-            fseek(fp,0,SEEK_END); /// search the file and move cursor to end of the file
-            /// here 0 indicates moving 0 distance from the end of the file
+            fseek(fp,0,SEEK_END); 
 
             another = 'y';
             while(another == 'y')  /// if user want to add another record
